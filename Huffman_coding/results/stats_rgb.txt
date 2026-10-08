@@ -1,0 +1,10 @@
+Image size            : 640 x 820
+Original size         : 1574400 bytes
+Compressed size       : 1127014 bytes
+Compression ratio     : 1.397 : 1
+Space saved           : 28.42 %
+Lossless (verified)   : True
+
+Red   channel -> entropy 5.6863 bpp | avg code length 5.7225 bpp
+Green channel -> entropy 5.6863 bpp | avg code length 5.7225 bpp
+Blue  channel -> entropy 5.6863 bpp | avg code length 5.7225 bpp

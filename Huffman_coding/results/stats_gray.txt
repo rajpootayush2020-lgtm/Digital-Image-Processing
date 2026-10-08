@@ -1,0 +1,9 @@
+Image size            : 640 x 820
+Unique gray levels    : 256
+Original size         : 524800 bytes
+Compressed size       : 375680 bytes
+Compression ratio     : 1.397 : 1
+Space saved           : 28.41 %
+Entropy               : 5.6863 bits/pixel
+Average code length   : 5.7225 bits/pixel
+Lossless (verified)   : True
