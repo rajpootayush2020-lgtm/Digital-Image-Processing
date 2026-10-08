@@ -1,0 +1,12 @@
+Operation                         Mean    Min   Max
+A + B (saturated)               183.97     0   255
+A + B (wrap-around)             116.37     0   255
+A - B                            95.41     0   255
+|A - B|                         110.85     0   255
+A x B / 255                      32.06     0   224
+A / (B + 1), normalized          27.85     0   255
+(A + B) / 2                     100.27     0   239
+Blend 0.7A + 0.3B               116.06     0   244
+A + 60 (brighter)               186.30    60   255
+A x 1.5 (contrast)              171.66     0   255
+255 - A (negative)              114.49     0   255
